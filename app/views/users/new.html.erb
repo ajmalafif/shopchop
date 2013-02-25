@@ -1,2 +1,15 @@
 <h1>Users#new</h1>
 <p>Find me in app/views/users/new.html.erb</p>
+
+ <%= semantic_form_for @user do |f| %>
+
+      <%= f.input :name %>
+      <%= f.input :username %>
+      <%= f.input :password %>
+      <%= f.input :email %>
+
+      <%= f.actions do %>
+        <%= f.action :submit, :as => :button %>
+        <%= f.action :cancel, :as => :link %>
+      <% end %>
+<% end %>
