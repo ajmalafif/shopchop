@@ -1,0 +1,12 @@
+export PATH ; PATH="/Users/ajmalafif/.rvm/gems/ruby-1.9.3-p125@chopshop/bin:/Users/ajmalafif/.rvm/gems/ruby-1.9.3-p125@global/bin:/Users/ajmalafif/.rvm/rubies/ruby-1.9.3-p125/bin:/Users/ajmalafif/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-1.9.3-p125@chopshop'
+export rvm_path ; rvm_path='/Users/ajmalafif/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-1.9.3-p125'
+export rvm_gemset_name ; rvm_gemset_name='chopshop'
+export RUBY_VERSION ; RUBY_VERSION='ruby-1.9.3-p125'
+export GEM_HOME ; GEM_HOME='/Users/ajmalafif/.rvm/gems/ruby-1.9.3-p125@chopshop'
+export GEM_PATH ; GEM_PATH='/Users/ajmalafif/.rvm/gems/ruby-1.9.3-p125@chopshop:/Users/ajmalafif/.rvm/gems/ruby-1.9.3-p125@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/Users/ajmalafif/.rvm/rubies/ruby-1.9.3-p125'
+export IRBRC ; IRBRC='/Users/ajmalafif/.rvm/rubies/ruby-1.9.3-p125/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
